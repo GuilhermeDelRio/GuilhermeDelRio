@@ -1,14 +1,15 @@
-## Olá, meu nome é Guilherme!
+## Hi, I'm Guilherme Del Rio!
 
-Atualmente trabalhando com .NET e Vuejs
+I am a software developer with a strong focus on back-end development, originally from Brazil. I currently work primarily with .NET, and I am expanding my skill set by learning Golang, aiming to broaden my expertise in backend development and distributed systems.
 
-🎓​ Estudante de Sistemas de Informação
+I am always open to connecting, sharing knowledge, and having meaningful conversations about technology and career growth.
 
-🖥️​ Desenvolvedor fullstack na Accenture
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-del-rio-5688b8167/).
+
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 Skills
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="dotnet"/></code>
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java"/></code>
