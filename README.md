@@ -2,7 +2,7 @@
 
 I am a software developer with a strong focus on back-end development, originally from Brazil. I currently work primarily with .NET, and I am expanding my skill set by learning Golang, aiming to broaden my expertise in backend development and distributed systems.
 
-I am always open to connecting, sharing knowledge, and having meaningful conversations about technology and career growth.
+I hold a bachelor's degree in Information Systems, and I am always open to connecting, sharing knowledge, and having meaningful conversations about technology and career growth.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-del-rio-5688b8167/).
 
